@@ -14,6 +14,12 @@
 ### Cambie la estructura de la clase anterior a la siguiente y luego confirme en GIT.
 <img src="img\3.JPG"/>
 
+
+### EJERCICIO 1:
+Cree una lista de personas y recorra la lista usando un for, agregue 3
+personas y muestre los resultados de los datos de cada persona:
+<img src="img\7.JPG"/>
+
 ### Cree un nuevo fichero llamado OtrasClases.kt dentro de la misma carpeta
 ### Copie el siguiente código sobre enumeraciones, clases de datos y objetos
 ####  Analice la utilización de cada uno imprimiendo su resultado
