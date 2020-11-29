@@ -1,3 +1,8 @@
+
+
+
+
+
 open class Figura
 {
     open fun Dibujar()

@@ -7,7 +7,7 @@
 //     {
 //     nombre=n
 //     apellido=a
-//     }
+//     } 
 //    }
 
    class Persona(var nombre:String, var apellido:String)
